@@ -1,0 +1,40 @@
+body
+{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color:#f4f4f4;
+}
+
+header{
+    background:#000c4ea4;
+    color:#ffffff;
+    padding-top:10px;
+    min-height:20px;
+    border-bottom:#ffa551 4px solid;
+  }
+
+.Calculator {
+    margin-left: 42% ;
+    width: 200px;
+    padding: 10px;
+    background: #ffa551
+}
+
+input[type=text] {
+    margin: 7px auto;
+    width: 90%;
+    padding: 10px;
+}
+
+button {
+    position: relative;
+    width: 80%;
+    background: #ffffff;
+    border: 1px solid #000c4ea4;
+    color: #000000;
+    margin-left: auto;
+
+  }
+
+
